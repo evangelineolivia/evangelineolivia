@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hello , I'm Evangeline Olivia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 👨🏻‍💻 &nbsp;About Me
-- :school: I am a `Senior` at [Faculty of Electrical Engineering & Computer Science](https://eecs-gs.site.nthu.edu.tw/) at [國立清華大學 National Tsing Hua University Taiwan](https://nthu-en.site.nthu.edu.tw/).
+- :school: Graduated Student of [Faculty of Electrical Engineering & Computer Science](https://eecs-gs.site.nthu.edu.tw/) at [國立清華大學 National Tsing Hua University Taiwan](https://nthu-en.site.nthu.edu.tw/).
 - :student: I’m currently learning `UI/UX (User Interface/User Experience)`, `Project Management` and `SQL`.
 - :book: I love `learning new things`.
 - :nerd_face: I’m currently open for a `job opportunity`.
